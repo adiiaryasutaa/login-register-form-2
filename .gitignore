@@ -1,0 +1,6 @@
+src/
+node_modules/
+package-log.json
+package.json
+tailwind.config.js
+.vscode/
